@@ -14,7 +14,7 @@ Aplikasi CRUDS (Create, Read, Update, Delete, Search) sederhana untuk mengelola 
 
 - **PHP** (Native / tanpa framework)
 - **MySQL** (Database)
-- **Tailwind CSS** (via CDN di setiap halaman)
+- **Tailwind CSS** (CSS Framework, Styling halaman)
 - **JavaScript** (Vanilla, untuk validasi & modal interaktif)
 
 ---
