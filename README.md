@@ -1,6 +1,6 @@
 # CRUDS Data Siswa - SMK Nusantara
 
-**Tugas Pemrograman Web | Kelas XI RPL**
+**Latihan Pemrograman Web | Kelas XI RPL**
 
 ---
 
